@@ -33,7 +33,7 @@ comment: gitment
 # gitment config
 gitment_owner: Hugohui
 gitment_repo: https://github.com/Hugohui/Hugohui.github.io.git
-redirect_uri: http://hugohui.github.io
+redirect_uri: https://hugohui.github.io/
 gitment_oauth_id: 375669ff0503525fe943
 gitment_oauth_secret: a08e40ed08856b5cf2363119cedfa7693f899770
 
