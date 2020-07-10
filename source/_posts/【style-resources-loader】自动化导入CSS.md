@@ -1,7 +1,7 @@
 ---
 title: 【style-resources-loader】自动化导入CSS
 date: 2020-07-10 12:02:06
-tags:
+tags: vue, webpack
 ---
 > 项目开发过程中我们可能会定义一些公共样式、变量、mixin...,然后在单文件中可以随时自由的引用这些公共样式和变量，那么我们就可以使用[style-resources-loader](https://www.npmjs.com/package/vue-cli-plugin-style-resources-loader)，这篇文章将介绍如何使用它。
 
