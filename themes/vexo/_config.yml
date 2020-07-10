@@ -1,0 +1,62 @@
+author: Hua
+description: Hua's blog
+keyword: Hua, 程会玩, vuejs
+favicon: 
+
+excerpt_link: 阅读全文
+
+menu:
+ 首页: /
+ 标签: /tags/
+ 存档: /archives/
+ 项目: /project/
+ 关于: /about/
+
+# highlight
+highlight:
+  tomorrow
+
+# catalog
+catalog: true
+
+# donate
+donate: true
+
+# qrcode
+qrcode: true
+
+# comment
+# you can set gitment, uyan or disqus
+
+comment: gitment
+
+# gitment config
+gitment_owner: Hugohui
+gitment_repo: https://github.com/Hugohui/Hugohui.github.io.git
+redirect_uri: http://hugohui.github.io
+gitment_oauth_id: 375669ff0503525fe943
+gitment_oauth_secret: a08e40ed08856b5cf2363119cedfa7693f899770
+
+# uyan config
+# if you want to use uyan as your blog comment, plz remove/comment out gitment config
+baidu_id: 
+google_analytics:
+# disqus config
+disqus_shortname: 
+
+about: 
+  banner: http://file.muyutech.com/about.jpg
+  avatar: https://avatars2.githubusercontent.com/u/22502116?s=60&amp;v=4
+  description: "一个前端"
+  # weibo_username: hugohui
+  # twitter_username: hugohui
+  github_username: hugohui
+  zhihu_username: hugohui
+  # douban_username: hugohui
+  # linkedin_username:
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: false
+  cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
